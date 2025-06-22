@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1744559607 source:c:\users\giuseppe\desktop\c++\proj\main.cpp
+	<iostream>
+	"IP.h"
+	"NetworkItem.h"
+	"PC.h"
+	"Net.h"
+
+1742240560 c:\users\giuseppe\desktop\c++\proj\ip.h
+	<iostream>
+
+1744487303 source:c:\users\giuseppe\desktop\c++\proj\pc.cpp
+	<iostream>
+	"PC.h"
+
+1742246199 source:c:\users\giuseppe\desktop\c++\proj\ip.cpp
+	<iostream>
+	"IP.h"
+
+1744480623 c:\users\giuseppe\desktop\c++\proj\networkitem.h
+	<iostream>
+	<string>
+	"IP.h"
+
+1744480623 c:\users\giuseppe\desktop\c++\proj\pc.h
+	<iostream>
+	<string>
+	"NetworkItem.h"
+	"IP.h"
+
+1744549555 c:\users\giuseppe\desktop\c++\proj\net.h
+	<iostream>
+	<string>
+	<list>
+	"NetworkItem.h"
+	"IP.h"
+
+1744559607 source:c:\users\giuseppe\desktop\c++\proj\net.cpp
+	<iostream>
+	"Net.h"
+	<random>
+
+1744480623 source:c:\users\giuseppe\desktop\c++\proj\networkitem.cpp
+	<iostream>
+	"NetworkItem.h"
+
+1742246199 source:c:\users\giuseppe\desktop\phd\courses\c++\proj\ip.cpp
+	<iostream>
+	"IP.h"
+
+1742240560 c:\users\giuseppe\desktop\phd\courses\c++\proj\ip.h
+	<iostream>
+
+1744559665 source:c:\users\giuseppe\desktop\phd\courses\c++\proj\main.cpp
+	<iostream>
+	"IP.h"
+	"NetworkItem.h"
+	"PC.h"
+	"Net.h"
+
+1744480623 c:\users\giuseppe\desktop\phd\courses\c++\proj\networkitem.h
+	<iostream>
+	<string>
+	"IP.h"
+
+1749731219 c:\users\giuseppe\desktop\phd\courses\c++\proj\pc.h
+	<iostream>
+	<string>
+	"NetworkItem.h"
+	"IP.h"
+
+1744549555 c:\users\giuseppe\desktop\phd\courses\c++\proj\net.h
+	<iostream>
+	<string>
+	<list>
+	"NetworkItem.h"
+	"IP.h"
+
+1744559607 source:c:\users\giuseppe\desktop\phd\courses\c++\proj\net.cpp
+	<iostream>
+	"Net.h"
+	<random>
+
+1744480623 source:c:\users\giuseppe\desktop\phd\courses\c++\proj\networkitem.cpp
+	<iostream>
+	"NetworkItem.h"
+
+1744487303 source:c:\users\giuseppe\desktop\phd\courses\c++\proj\pc.cpp
+	<iostream>
+	"PC.h"
+
